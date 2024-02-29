@@ -23,4 +23,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-Special thanks to the developers of the Steam API and Discord.py library for making this project possible.
+Special thanks to the developers of the Steam API and Discord.py library for making this project possible. I'd also like to thank the fmbot team for inspiring me to come up with this idea.
